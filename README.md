@@ -2,7 +2,7 @@
 <p align="justify"> <img src="https://komarev.com/ghpvc/?username=neeze&label=Profile%20views&color=0e75b6&style=flat-square" alt="neeze" /> </p>
 
 <h3 align="left">My major is <b>Artificial Intelligence</b></h3>
-<p>Student of The University Of FPT Ho Chi Minh.</p>
+<p>Student of <b>FPT University Ho Chi Minh</b>.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
