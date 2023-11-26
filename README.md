@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neeze (Nam Nam)</h1>
-<h3 align="center">My major is <b>Artificial Intelligence</b></h3>
+<h3 align="left">My major is <b>Artificial Intelligence</b></h3>
 <p>Student of The University Of FPT Ho Chi Minh.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neeze&label=Profile%20views&color=0e75b6&style=flat-square" alt="neeze" /> </p>
