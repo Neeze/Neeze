@@ -35,6 +35,8 @@ My Skill:
          src="https://img.shields.io/badge/Pandas-8A2BE2?style=flat-square&logo=pandas&color=%233939ac" />
     <img alt="scikit-learn"
          src="https://img.shields.io/badge/Scikit_learn-8A2BE2?style=flat-square&logo=scikit-learn&color=%2333ccff" />
+    <img alt="c++"
+         src="https://img.shields.io/badge/C%2B%2B-8A2BE2?style=flat-square&logo=C%2B%2B&color=%233939ac" />
 </p>
 
 **DevOps**
