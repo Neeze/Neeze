@@ -31,6 +31,10 @@ My Skill:
          src="https://img.shields.io/badge/Tensorflow-dark?style=flat-square&logo=tensorflow&color=grey"/>
     <img alt="SQL-Server"
          src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
+    <img alt="Pandas"
+         src="https://img.shields.io/badge/Pandas-8A2BE2?style=flat-square&logo=pandas&color=%233939ac" />
+    <img alt="scikit-learn"
+         src="https://img.shields.io/badge/Scikit_learn-8A2BE2?style=flat-square&logo=scikit-learn&color=%2333ccff" />
 </p>
 
 **DevOps**
