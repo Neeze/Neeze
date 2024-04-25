@@ -27,6 +27,8 @@ My Skill:
          src="https://img.shields.io/badge/Python-8A2BE2?style=flat-square&logo=python&color=yellow"/>
     <img alt="NumPy" 
          src="https://img.shields.io/badge/Numpy-white?style=flat-square&logo=numpy&color=darkblue"/>
+    <img alt="PyTorch" 
+         src="https://img.shields.io/badge/PyTorch-white?style=flat-square&logo=pytorch&color=grey"/>
     <img alt="TensorFLow" 
          src="https://img.shields.io/badge/Tensorflow-dark?style=flat-square&logo=tensorflow&color=grey"/>
     <img alt="SQL-Server"
